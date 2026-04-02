@@ -1,0 +1,230 @@
+.header {
+	background-color: #013369;
+	color: #000000;
+	text-align: center;
+	border-style: solid;
+	border-color: #ffffff;
+	border-width: 2px;
+}
+
+.PageTitle {
+	font-family: "Outfit" sans-serif;
+	font-weight: 900;
+	font-size: 75px;
+	color: #ffffff;
+}
+
+.byline {
+	border-bottom-style: solid;
+	border-bottom-width: 10px;
+	border-bottom-color: #D50A0A;
+}
+
+.byLine {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 100;
+	font-size: 15px;
+	color: #000000;
+	text-align: right;
+}
+
+.topimage {
+	margin: 20px 20px 25px 20px;
+}
+
+.topimagecaption {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 200;
+	font-size: 17px;
+	color: #000000;
+	text-align: center;
+}
+
+.firstleft {
+	background-color: #013369;
+	color: #ffffff;
+	text-align: left;
+	padding: 10px 20px 5px 20px;
+}
+
+.firsthead {
+	font-family: "Outfit" sans-serif;
+	font-weight: 700;
+	font-size: 50px;
+	color: #ffffff;
+	text-align: left;
+	margin-left: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #d50a0a;
+}
+
+.firstparagraph {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	color: #ffffff;
+	margin-left: 20px;
+	margin-right: 15px;
+	padding: 10px 10px -6px 10px;
+}
+
+.davidbailey {
+	border-style: solid;
+	border-color: #ffffff;
+	border-width: 2px;
+}
+
+
+.firstright {
+	background-color: #f4f4f4;
+	color: #000000;
+	text-align: center;
+	padding: 20px 20px 5px 20px;
+	text-align: left;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-right-color: #D50A0A;
+}
+
+.secondhead {
+	font-family: "Outfit" sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	color: #D50A0A;
+	margin-top: 15px;
+}
+
+.photocaption {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 500;
+	font-size: 10px;
+	color: #000000;
+	margin-left: 7px;
+	margin-right: 15px;
+}
+
+.photocaption2 {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 500;
+	font-size: 10px;
+	color: #ffffff;
+	margin-left: 9px;
+	margin-right: 15px;
+}
+
+.draftprospects {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 600;
+	font-size: 15px;
+	color: #D50A0A;
+}
+
+.draftorder {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 600;
+	font-size: 25px;
+	color: #D50A0A;
+}
+
+.secondparagraph {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+	color: #D50A0A;
+	margin-left: 7px;
+	margin-right: 15px;
+}
+
+.secondleft {
+	background-color: #D50A0A;
+	border-top-style: solid;
+	border-top-width: 4px;
+	border-top-color: #013369;
+	padding: 15px 20px 20px 20px;
+	margin-top: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 4px;
+	border-bottom-color: #013369;
+}
+
+.leftphotocaption {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 500;
+	font-size: 15px;
+	color: #000000;
+	text-align: center;
+}
+
+.offensehead {
+	font-family: "Outfit" sans-serif;
+	font-weight: 800;
+	font-size: 28px;
+	color: #ffffff;
+	text-align: center;
+	margin-top: -5px;
+	padding-bottom: 10px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #ffffff;
+}
+
+.secondright {
+	background-color: #f4f4f4;
+	border-top-style: solid;
+	border-top-width: 4px;
+	border-top-color: #D50A0A;
+	padding: 15px 20px 20px 20px;
+	margin-top: 20px;
+	border-bottom-style: solid;
+	border-bottom-width: 4px;
+	border-bottom-color: #D50A0A;
+}
+
+.middlephotocaption {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 500;
+	font-size: 15px;
+	color: #D50A0A;
+	text-align: center;
+}
+
+.defensehead {
+	font-family: "Outfit" sans-serif;
+	font-weight: 800;
+	font-size: 28px;
+	color: #000000;
+	text-align: center;
+	margin-top: -5px;
+	padding-bottom: 10px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #D50A0A;
+}
+
+.draftmap {
+	background-color: #013369;
+	padding: 20px 20px 10px 20px;
+	align-items: center;
+	border-bottom-style: solid;
+	border-bottom-width: 25px;
+	border-bottom-color: #D50A0A;
+	margin-top: 20px;
+}
+
+.maphead {
+	font-family: "Outfit" sans-serif;
+	font-weight: 700;
+	font-size: 50px;
+	color: #ffffff;
+	text-align: right;
+}
+
+.mapparagraph {
+	font-family: "Montserrat" sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	color: #ffffff;
+	text-align: right;
+	margin-right: 7px;
+}
