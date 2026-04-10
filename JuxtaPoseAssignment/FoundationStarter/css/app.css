@@ -1,0 +1,35 @@
+.header {
+	font-size: 100px;
+	font-family: "Boldonse", sans-serif;
+	font-style: normal;
+	color: #000000;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+}
+
+.sidebysidehead {
+	font-size: 50px;
+	font-family: "Boldonse", sans-serif;
+	font-style: normal;
+	color: #000000;
+	padding-top: 25px;
+}
+
+.sidebysidedescription {
+	font-size: 25px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	color: #000000;
+	padding-top: 5px;
+}
+
+.photocaption {
+	font-size: 18px;
+	font-family: "Oswald", sans-serif;
+	font-style: normal;
+	color: #000000;
+	margin-top: -5px;
+}
